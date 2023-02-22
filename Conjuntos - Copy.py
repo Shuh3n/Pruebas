@@ -1,10 +1,4 @@
-"""
-El usuario dispone del conjunto universal:
--) Este debe indicar cuantos elementos tiene ese conjunto universal
--) Cuantos de esos elementos son subconjuntos y el tamaño de los subconjuntos
 
-Después, le tengo que indicar si pertenece, no pertenece, etc.
-"""
 
 def main():
     tamConjuntoUniversal = int(input("Ingrese la cantidad de elementos del conjunto universal: "))
